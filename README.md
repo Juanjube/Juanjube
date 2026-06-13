@@ -48,11 +48,41 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+
+###
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 NeuroBreak</h3>
+      <p>Aplicación web enfocada en productividad y bienestar mental. Construida con React y Supabase.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/Juanjube/Neurobreak">Ver repositorio →</a>
+    </td>
+    <td width="50%">
+      <h3>📜 Epiphany</h3>
+      <p>App móvil de frases filosóficas y citas en latín. Una colección de sabiduría a través del tiempo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/Juanjube/Epiphany">Ver repositorio →</a>
+    </td>
+  </tr>
+</table>
+
+###
+
 <h2 align="left">Social / Contact</h2>
 
 ###
 
-<p align="left">GitHub:  Juanjube<br>Email: Coming soon <br>LinkedIn: Coming soon</p>
+<p align="left">GitHub: Juanjube<br>Email: Coming soon <br>LinkedIn: Coming soon</p>
 
 ###
 
