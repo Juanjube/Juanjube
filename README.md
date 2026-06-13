@@ -62,5 +62,9 @@
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Juanjube/Juanjube/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanjube&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanjube&layout=compact&theme=dark" height="150" />
+</div>
 
 ###
