@@ -59,6 +59,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juanjube/Juanjube/pacman-output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juanjube/Juanjube/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juanjube/Juanjube/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Juanjube/Juanjube/pacman-output/bomberman-contribution-graph.svg">
 </picture>
+
+
 ###
