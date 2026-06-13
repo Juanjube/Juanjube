@@ -57,9 +57,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juanjube/Juanjube/blob/pacman-output/pacman-contribution-graph-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Juanjube/Juanjube/blob/pacman-output/pacman-contribution-graph.svg?raw=true">
-  <img alt="pacman contribution graph" src="https://github.com/Juanjube/Juanjube/blob/pacman-output/pacman-contribution-graph.svg?raw=true">
+  <img src="https://github.com/Juanjube/Juanjube/blob/pacman-output/pacman-contribution-graph.svg?raw=true" width="100%" />
 </picture>
 
 ###
